@@ -1,0 +1,15 @@
+{
+    "detected_objects": [
+        {
+            "index": 0,
+            "class_name": "Flower",
+            "X": 380,
+            "Y": 369,
+            "Z": 95
+        }
+    ],
+    "image_path": [
+        "gui/uis/windows/main_window/saved_frames\\left_image.jpg",
+        "gui/uis/windows/main_window/saved_frames\\right_image.jpg"
+    ]
+}

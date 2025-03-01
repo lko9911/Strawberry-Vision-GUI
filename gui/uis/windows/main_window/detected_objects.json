@@ -1,0 +1,29 @@
+{
+    "detected_objects": [
+        {
+            "index": 0,
+            "class_name": "Ripe Strawberry",
+            "X": 296.67962646484375,
+            "Y": 505.50689697265625,
+            "Z": 50.0
+        },
+        {
+            "index": 1,
+            "class_name": "Ripe Strawberry",
+            "X": 281.7955017089844,
+            "Y": 391.4594421386719,
+            "Z": 50.0
+        },
+        {
+            "index": 2,
+            "class_name": "Ripe Strawberry",
+            "X": 320.6365051269531,
+            "Y": 497.6845397949219,
+            "Z": 50.0
+        }
+    ],
+    "image_path": [
+        "saved_frames\\left_image.jpg",
+        "saved_frames\\right_image.jpg"
+    ]
+}
